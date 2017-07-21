@@ -9,10 +9,12 @@ body {
   font-size: 4em;
   text-align: center;
   display: none;
+  z-index: 1;
   overflow: hidden; }
 
 .content {
-  width: 100%; }
+  width: 100%;
+  z-index: 999; }
 
 .data {
   padding: 40px;
