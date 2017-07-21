@@ -1,0 +1,21 @@
+div {
+  box-sizing: content-box; }
+
+body {
+  margin: 0; }
+
+.head {
+  background-color: lightskyblue;
+  font-size: 4em;
+  text-align: center;
+  display: none;
+  overflow: hidden; }
+
+.content {
+  width: 100%; }
+
+.data {
+  padding: 40px;
+  font-size: 4em; }
+
+/*# sourceMappingURL=style.css.map */
